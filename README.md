@@ -17,7 +17,7 @@ This activity is broken down into three portions, Data Modeling, Data Engineerin
 
 #### Data Engineering:
 
--	The table schema is provided in a .sql file, “SQL_Challenge_Schema_Code.sql”.
+-	The table schema is provided in a .sql file, “SQL_Challenge_Schemata_Code.sql”.
 
 #### Data Analysis:
 
